@@ -5,6 +5,22 @@
   </h5>
 </h1>
 
+
+### 📊 SalesInsights  
+<sub>A KPI-focused sales dashboard, now a full business: [salesinsights.com.au](https://salesinsights.com.au)</sub>  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
 <h2 align="center">Projects</h2>
 <table>
   <tr>
@@ -42,18 +58,3 @@
     </td>
   </tr>
 </table>
-
-<!--
-**elliotcullen/elliotcullen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
