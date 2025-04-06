@@ -9,7 +9,7 @@
 <sub>A KPI-focused sales dashboard, now running as a full business:  
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logo=awslambda)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices)
 
 
 <h2 align="center">Projects</h2>
