@@ -6,7 +6,7 @@
 </h1>
 
 ### 📊 SalesInsights
-<p>A KPI-focused sales dashboard, now operating as a SaaS business. Built on Wordpress, hosted in AWS. <br> Find out more at <a href="https://salesinsights.com.au" target="_blank">salesinsights.com.au</a></p>
+<p>A KPI-focused sales dashboard, now operating as a SaaS business. Built on Wordpress, hosted in AWS. <br> Find out more at <a href="https://salesinsights.com.au" target="_blank">salesinsights.com.au.</a></p>
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=plastic)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=0f0f0e&style=plastic)
