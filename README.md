@@ -1,8 +1,8 @@
 <h1 align="center">
   Elliot's Github
-  <h6 align="center">
+  <h5 align="center">
     📦 Warning: May contain traces of half-finished side projects.
-  </h6>
+  </h5>
 </h1>
 
 <h2 align="center">🛠️ Projects</h2>
