@@ -6,7 +6,7 @@
 </h1>
 
 ### 💼 SalesInsights
-<sub>A KPI-focused sales dashboard, now running as a full business:  
+<p>A KPI-focused sales dashboard, now running as a full business:   </p>
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=plastic)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=0f0f0e&style=plastic)
