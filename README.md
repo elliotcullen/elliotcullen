@@ -10,7 +10,7 @@
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=0f0f0e)
-![RDS](https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=0f0f0e)
+![RDS](https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?logo=amazonapigateway&logoColor=0f0f0e)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices)
 
