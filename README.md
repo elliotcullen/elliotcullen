@@ -11,7 +11,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![ERPLY](https://img.shields.io/badge/ERPLY-0067F8?style=for-the-badge)
 
-![AWS](https://img.shields.io/aws/AWS-232F3E?logo=amazonwebservices)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices)
 
 
 <h2 align="center">Projects</h2>
