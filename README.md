@@ -1,4 +1,6 @@
-## Elliot's Github
+<p align="center">
+  ## Elliot's Github
+</p>
 <p align="center">
   📦 Warning: May contain traces of half-finished side projects.
 </p>
