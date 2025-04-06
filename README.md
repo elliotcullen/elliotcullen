@@ -1,12 +1,14 @@
-<h1 align="center">Elliot's Github</h1>
-<p align="center">
-  📦 Warning: May contain traces of half-finished side projects.
-</p>
+<h1 align="center">
+  Elliot's Github
+  <p align="center">
+    📦 Warning: May contain traces of half-finished side projects.
+  </p>
+</h1>
 
 <h2 align="center">🛠️ Projects</h2>
 <table>
   <tr>
-    <td style="vertical-align: top; padding: 15px; width: 50%;">
+    <td>
       <h3>🚧 In Progress</h3>
       <ul>
         <li>
@@ -18,7 +20,7 @@
         </li>
       </ul>
     </td>
-    <td style="vertical-align: top; padding: 15px; width: 50%;">
+    <td>
       <h3>✅ Completed</h3>
       <ul>
         <li>
