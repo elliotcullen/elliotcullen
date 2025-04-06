@@ -5,7 +5,9 @@
   </h5>
 </h1>
 
-### 📊 SalesInsights
+<h2 align="center">Projects</h2>
+
+<h3> 📊 SalesInsights </h3>
 <p>A KPI-focused sales dashboard, now operating as a SaaS business. Built on Wordpress, hosted in AWS. <br> Find out more at <a href="https://salesinsights.com.au" target="_blank">salesinsights.com.au.</a></p>
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=plastic)
