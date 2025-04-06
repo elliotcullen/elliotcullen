@@ -6,12 +6,9 @@
 </h1>
 
 
-### 📊 SalesInsights  
-<sub>A KPI-focused sales dashboard, now a full business: [salesinsights.com.au](https://salesinsights.com.au)</sub>  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flask,postgres,chrome,python,ts" />
+</p>
 
 
 
