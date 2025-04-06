@@ -6,7 +6,7 @@
 </h1>
 
 ### 📊 SalesInsights
-<p>A KPI-focused sales dashboard, now operating as a SaaS business. Find out more at [salesinsights.com.au]salesinsights.com.au</p>
+<p>A KPI-focused sales dashboard, now operating as a SaaS business. Find out more at <a href="https://salesinsights.com.au" target="_blank"></p>
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=plastic)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=0f0f0e&style=plastic)
