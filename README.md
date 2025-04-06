@@ -20,9 +20,9 @@
 <p>A database visualization tool for displaying key data surrounding geological drilling samples, built for <a href="https://github.com/OreFox" target="_blank">OreFox</a>, with backend by <a href="https://github.com/DaleLombard" target="_blank">Dale Lombard</a></p>
 
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=black&style=plastic)
-![Python](https://img.shields.io/badgePython-3776AB?logo=python&logoColor=black&style=plastic)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=black&style=plastic)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=0f0f0e&style=plastic)
-![Javascipt](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
+![Javascipt](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
 
 
 <h2 align="center">Projects</h2>
