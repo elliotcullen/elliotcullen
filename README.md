@@ -2,8 +2,8 @@
 <p align="center">
   📦 Warning: May contain traces of half-finished side projects.
 </p>
-## 🛠️ Projects
 
+<h2 align="center">🛠️ Projects</h2>
 <table>
   <tr>
     <td style="vertical-align: top; padding: 15px; width: 50%;">
