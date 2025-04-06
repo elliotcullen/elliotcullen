@@ -27,7 +27,8 @@
 <h3> 🍔 Food Finder </h3>
 <p>A food festival finder, focused on user authentication, Flask development, and UX/UI practices.</p>
 
-![Flask](https://img.shields.io/badge/Flask-092E20?logo=flask&logoColor=black&style=plastic)
-![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=white&style=plastic)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=black&style=plastic)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=0f0f0e&style=plastic)
 ![Javascipt](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
+![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=black&style=plastic)
