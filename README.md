@@ -23,7 +23,3 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=black&style=plastic)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=0f0f0e&style=plastic)
 ![Javascipt](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
-
-
-<h2 align="center">Projects</h2>
-
