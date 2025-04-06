@@ -1,6 +1,4 @@
-## console.log("Hello, World!")
-
-Hi All! My name is Elliot and welcome to my GitHub!
+## Elliot's Github
 <p align="center">
   📦 Warning: May contain traces of half-finished side projects.
 </p>
