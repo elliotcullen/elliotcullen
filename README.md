@@ -7,7 +7,7 @@
 
 ### 💼 SalesInsights
 <sub>A KPI-focused sales dashboard, now running as a full business:  
-![AWS](https://img.shields.io/amazonwebservices/v/amazonwebservices.svg?amazonwebservices)
+![AWS](https://img.shields.io/amazonwebservices/)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![ERPLY](https://img.shields.io/badge/ERPLY-0067F8?style=for-the-badge)
 
