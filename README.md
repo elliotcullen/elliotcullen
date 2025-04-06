@@ -28,7 +28,7 @@
         </li>
         <br/>
         <li>
-          💼 <code>SalesInsights</code> — A sales dashboard tracking actionable KPIs, now running as a full business: <a href="https://salesinsights.com.au" target="_blank">salesinsights.com.au</a>.
+          💼 <code>SalesInsights</code> — A sales dashboard tracking actionable KPIs, now operating as a business: <a href="https://salesinsights.com.au" target="_blank">salesinsights.com.au</a>.
         </li>
         <br/>
         <li>
