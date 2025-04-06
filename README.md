@@ -13,6 +13,10 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![ERPLY](https://img.shields.io/badge/ERPLY-0067F8?style=for-the-badge)
 
+![Part 1](https://img.shields.io/badge/Platform-AWS%20|%20WordPress%20|%20ERPLY-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![SalesInsights Stack](https://img.shields.io/badge/Stack-AWS__WordPress__ERPLY-007ACC?style=for-the-badge&logo=cloud&logoColor=white)
+
 
 <h2 align="center">Projects</h2>
 
