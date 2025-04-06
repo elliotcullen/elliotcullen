@@ -5,11 +5,7 @@
   </h5>
 </h1>
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flask,postgres,chrome,python,ts" />
-</p>
-
+**Tags:** 🧪 Flask &nbsp; ⚛️ React &nbsp; 🐘 PostgreSQL
 
 
 
