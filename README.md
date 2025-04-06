@@ -5,7 +5,7 @@
   </h5>
 </h1>
 
-<h2 align="center">🛠️ Projects</h2>
+<h2 align="center">Projects</h2>
 <table>
   <tr>
     <td>
