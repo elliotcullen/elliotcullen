@@ -2,6 +2,10 @@
 <p align="center">
   📦 Warning: May contain traces of half-finished side projects.
 </p>
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <p>Loading...</p>
+  <p>Finished!</p>
+</div>
 <!--
 **elliotcullen/elliotcullen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
