@@ -2,26 +2,45 @@
 <p align="center">
   📦 Warning: May contain traces of half-finished side projects.
 </p>
+## 🛠️ Projects
+
 <table>
   <tr>
-    <td><strong>🚧 In Progress</strong></td>
-    <td><strong>✅ Completed</strong></td>
-  </tr>
-  <tr>
-    <td>
-- 🌀 <code>ai-sass-bot</code> — Sassy AI chatbot with too much personality  
-- 📈 <code>productivity-dashboard</code> — Monitors everything… except itself  
-- 🧙‍♂️ <code>wizard-text-rpg</code> — CLI game with *very* questionable magic  
-- 🐦 <code>tweet-scheduler</code> — Still can’t tell time properly
+    <td style="vertical-align: top; padding: 15px; width: 50%;">
+      <h3>🚧 In Progress</h3>
+      <ul>
+        <li>
+          🎬 <code>MovieStar</code> — A React-based web app exploring frontend best practices, API integration, and server-side logic. (Uni project)
+        </li>
+        <br/>
+        <li>
+          📊 <code>SalesInsights: National Deployment</code> — Rolling out SalesInsights across Australia for a large franchise-based company.
+        </li>
+      </ul>
     </td>
-    <td>
-- 🎮 <code>pixel-jumper</code> — A rage-inducing platformer  
-- 📚 <code>markdown-notes</code> — My personal Zettelkasten with flair  
-- 🔍 <code>github-stats-viewer</code> — Probably checking this right now  
-- 🐱‍💻 <code>portfolio-site</code> — Now live & 100% real this time
+    <td style="vertical-align: top; padding: 15px; width: 50%;">
+      <h3>✅ Completed</h3>
+      <ul>
+        <li>
+          🌄 <code>Unsplash Stats Extension</code> — Chrome extension that reveals hidden stats and useful metrics for Unsplash creators.
+        </li>
+        <br/>
+        <li>
+          💼 <code>SalesInsights</code> — A sales dashboard tracking actionable KPIs, now running as a full business: <a href="https://salesinsights.com.au" target="_blank">salesinsights.com.au</a>.
+        </li>
+        <br/>
+        <li>
+          🪨 <code>DrillSurveyDB</code> — Geological core drilling survey database built in Flask for @OreFox (collaborative team project).
+        </li>
+        <br/>
+        <li>
+          🍔 <code>Food Event Finder</code> — Flask app for discovering local food events. Created as part of a university capstone project.
+        </li>
+      </ul>
     </td>
   </tr>
 </table>
+
 <!--
 **elliotcullen/elliotcullen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
